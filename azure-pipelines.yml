@@ -7,6 +7,6 @@ trigger:
 - master
 
 pool:
-  name: Default
+  name: Nati
 steps:
   - script: echo "pipeline1"
